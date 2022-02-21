@@ -3,20 +3,18 @@
 
 <h3 align="center">I'm a Software Engineering Student, Military, Stocks investor, Learner!</h3>
 <p>I live in Brazil, Porto Alegre-RS;</p>
-<p>I've been working to improve my skills in Back-end and Front-end development;</p>
+<p>I've been working to improve my skills in Mobile with Flutter Framework;</p>
 <p>Working toward a bachelor's degree in Software Engineering at PUCRS;</p>
 <p>Always looking to immerse me in different projects to improve my development skills.</p>
 
 
 <h2>What I'm focusing on:</h2>
-<p>Currently improving HTML, CSS and JavaScript. Also, i pretend to learn about ReactJS.</p>
+<p>Currently improving frontend skills in Flutter, and API integration as well.</p>
 
 
 <h2>Languages and Tools:</h2>
 
-<a href="#"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="html-logo" title="HTML" height="32px"></a>
-<a href="#"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="CSS-logo" title="CSS3" height="32px"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript-logo" title="JavaScript" height="32px"></a>
+<a href="#"><img src="https://iconape.com/wp-content/files/yb/61798/png/flutter-logo.png" alt="flutter-logo" title="Flutter" height="32px"></a>
 <a href="#"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png" alt="Java-logo" title="Java" height="32px"></a>
 <a href="#"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python-logo" title="Python" height="32px"></a>
 <a href="#"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" alt="Git-logo" title="Git" height="32px"></a>
