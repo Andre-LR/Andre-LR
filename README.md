@@ -23,5 +23,5 @@
 
 <h2>Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/lrandre601/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" alt="linkedin-logo" title="Linkedin" height="32px"></a>
+<a href="https://www.linkedin.com/in/andreluizzr/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" alt="linkedin-logo" title="Linkedin" height="32px"></a>
 <a href="https://www.instagram.com/andreluizzr/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-256.png" alt="instagram-logo" title="Instagram" height="32px"></a>
