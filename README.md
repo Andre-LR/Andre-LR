@@ -8,6 +8,14 @@
 <p>Always looking to immerse me in different projects to improve my development skills.</p>
 
 
+<a href="https://github.com/Andre-LR">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Andre-LR&show_icons=true&theme=dark" />
+</a>
+
+<a href="https://github.com/Andre-LR">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-LR&theme=dark&layout=compact" />
+</a>
+
 <h2>What I'm focusing on:</h2>
 <p>Currently improving frontend skills in Flutter, and API integration as well.</p>
 
